@@ -138,3 +138,7 @@ node .
 ⭝ 𝑺𝒂𝒊𝒑𝒖𝒍 𝑨𝒏𝒖𝒓
 ```
 
+### IMPORTANT 
+
+Attention our bot is still under development i recommend to not turning it on first 
+because we are really not ready to operate this bot
