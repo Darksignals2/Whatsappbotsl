@@ -3574,8 +3574,8 @@ global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", 
 global.hsquere = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"])
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Onion Bot'
-global.stickauth = `By ©Onion Development`
+global.stickpack = '?'
+global.stickauth = `milikkita`
 
 global.multiplier = 69 
 /*============== EMOJI ==============*/
