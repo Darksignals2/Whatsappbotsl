@@ -43,14 +43,14 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 global.sig = '-'
 global.sgh = 'https://github.com/Darksignals2'
-global.sgc = -'
+global.sgc = 'http://wa.me/6285730126669'
 global.sdc = '-'
 global.snh = 'https://youtu.be/-'
 global.sfb = '-'
 global.syt = 'https://youtube.com/-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '085730126669'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-'
@@ -131,7 +131,7 @@ global.wm2 = 'Just dont spam'
 global.wm3 = "free"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Onion Development`
+global.title = 'bot biasanya'
 global.packname = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
 global.author = "Hamba Allah"
 global.footer = 'a'
