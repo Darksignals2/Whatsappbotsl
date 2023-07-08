@@ -42,9 +42,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // if you don't have it, type "-" or leave it alone so there are credits :v
 
 global.sig = '-'
-global.sgh = 'https://github.com/Onion-Development'
-global.sgc = 'https://chat.whatsapp.com/Is8EcsqQoF27uMqAstXEjQ'
-global.sdc = 'https://discord.gg/nWdGBdt2xs'
+global.sgh = 'https://github.com/Darksignals2'
+global.sgc = -'
+global.sdc = '-'
 global.snh = 'https://youtu.be/-'
 global.sfb = '-'
 global.syt = 'https://youtube.com/-'
@@ -54,18 +54,18 @@ global.pdana = '-'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-'
-global.ppulsa = '085892710203' 
+global.ppulsa = '085730126669' 
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/BlueShi'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285892710203'
-global.nomorown = '62858927102031'
-global.namebot = 'Onion Bot'
-global.nameown = 'Purwandani'
+global.nomorbot = '6285730126669'
+global.nomorown = '6289653781812'
+global.namebot = 'INTEGER'
+global.nameown = '?'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Onion Development'
+global.namagithub = 'INT EGER2'
 global.linkgithub = sgh
 
 /*============== CREATE PANEL ==============*/
@@ -80,8 +80,7 @@ global.lolkey = pickRandom(["e54205a4ca2caa368cc067bb", "8e66d0934cf741bfd2182c1
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285892710203', 'Purwandani', true],
-  ['6285750823860', 'Dave', true]
+  ['6285730126669', 'Zaky', true]
 ]
 global.mods = [] 
 global.prems = [] 
@@ -127,19 +126,18 @@ global.APIKeys = {
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Onion Bot 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ Onion Bot ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ Onion Bot"
+global.wm = 'Lol'
+global.wm2 = 'Just dont spam'
+global.wm3 = "free"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Onion Development`
 global.packname = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "Onion Bot 乂 Onion Development"
-global.footer = 'Multi Purpose WhatsApp Bot Made By Onion Development ッ'
+global.author = "Hamba Allah"
+global.footer = 'a'
 /*Fake*/
 global.fsizedoc = SizeDoc()
 global.fpagedoc = PageDoc()
-global.thumbdoc = ImgEstetik()
 /*=========== FAKE SIZE ===========*/
 
 
